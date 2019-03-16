@@ -1,0 +1,8 @@
+Style/EndOfLine:
+  EnforcedStyle: lf
+  SupportedStyles:
+    - lf
+    - crlf
+    - native
+  TrailingBlankLines:
+    Enabled: false

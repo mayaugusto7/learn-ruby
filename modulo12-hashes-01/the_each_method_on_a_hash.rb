@@ -1,7 +1,8 @@
-capitals = {alabama: "Montgomery", alaska: "Juneau", arizona: "Phoenix", arkansas: "Little Rock"}
+capitals = { alabama: 'Montgomery', alaska: 'Juneau', arizona: 'Phoenix',
+             arkansas: 'Little Rock' }
 
 capitals.each do |state, capital|
-  puts "Querying hash..."
+  puts 'Querying hash...'
   puts "The capital of #{state} is #{capital}!"
 end
 
@@ -14,6 +15,6 @@ end
 puts
 
 capitals.each do |guess|
-  puts "Querying hash..."
+  puts 'Querying hash...'
   p guess
 end

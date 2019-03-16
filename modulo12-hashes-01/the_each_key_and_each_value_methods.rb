@@ -9,14 +9,14 @@ salaries.each_value {|salary| puts "The next employee earns #{salary}."}
 
 def get_keys_from_hash(hash)
   keys = []
-  hash.each {|key, value| keys << key}
+  hash.each {|key, _value| keys << key}
   keys
 end
 
 def get_values_from_hash(hash)
   values = []
-  hash.each {|key, value| values << value}
-  #values
+  hash.each {|_key, value| values << value}
+  # values
   values.uniq
 end
 
