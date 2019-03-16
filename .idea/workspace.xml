@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="620459a3-0d43-484e-a12d-d2a2dbf4d87b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learn_ruby@introduction_to_blocks.rcov" NAME="introduction_to_blocks Coverage Results" MODIFIED="1550318253315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@single_vs_double_quotes.rcov" NAME="single_vs_double_quotes Coverage Results" MODIFIED="1550353133940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_for_loop.rcov" NAME="the_for_loop Coverage Results" MODIFIED="1551798166377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@iteration_over_array_with_while_or_until_loops.rcov" NAME="iteration_over_array_with_while_or_until_loops Coverage Results" MODIFIED="1551823117969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_reject_method.rcov" NAME="the_reject_method Coverage Results" MODIFIED="1551828070740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@less_than_and_greater_than_operators.rcov" NAME="less_than_and_greater_than_operators Coverage Results" MODIFIED="1549925386469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@unpack_a_multidimensional_array.rcov" NAME="unpack_a_multidimensional_array Coverage Results" MODIFIED="1551828767336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_join_method_on_an_array.rcov" NAME="the_join_method_on_an_array Coverage Results" MODIFIED="1551876121340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_methods.rcov" NAME="intro_to_methods Coverage Results" MODIFIED="1551379378028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_length_and_size_method.rcov" NAME="the_length_and_size_method Coverage Results" MODIFIED="1550354632524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@respond_to_method.rcov" NAME="respond_to_method Coverage Results" MODIFIED="1551482824451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@return_values_2.rcov" NAME="return_values_2 Coverage Results" MODIFIED="1551381271789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_step_method.rcov" NAME="the_step_method Coverage Results" MODIFIED="1550319570779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@each_within_each.rcov" NAME="each_within_each Coverage Results" MODIFIED="1551797432984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_count_method_on_a_string.rcov" NAME="the_count_method_on_a_string Coverage Results" MODIFIED="1551876611854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_concat_method_on_an_array.rcov" NAME="the_concat_method_on_an_array Coverage Results" MODIFIED="1551826410831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_while_keyword.rcov" NAME="the_while_keyword Coverage Results" MODIFIED="1551535951470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@string_interpolation.rcov" NAME="string_interpolation Coverage Results" MODIFIED="1549805747315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_is_a_method.rcov" NAME="the_is_a_method Coverage Results" MODIFIED="1551622796054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@comparision_with_the_equality_operator.rcov" NAME="comparision_with_the_equality_operator Coverage Results" MODIFIED="1549924720642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@overwrite_characters_in_strings.rcov" NAME="overwrite_characters_in_strings Coverage Results" MODIFIED="1550960928236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_object_methods_with_parameters.rcov" NAME="intro_to_object_methods_with_parameters Coverage Results" MODIFIED="1549926468470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@return_values_1.rcov" NAME="return_values_1 Coverage Results" MODIFIED="1551380739342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_length_and_size_methods.rcov" NAME="the_length_and_size_methods Coverage Results" MODIFIED="1551617959819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_p_method.rcov" NAME="the_p_method Coverage Results" MODIFIED="1549194667830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_empty_nil_methods_on_a_string.rcov" NAME="the_empty_nil_methods_on_a_string Coverage Results" MODIFIED="1550962872952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@call_method_from_another_method_or_interpolated_string.rcov" NAME="call_method_from_another_method_or_interpolated_string Coverage Results" MODIFIED="1551533186600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_spaceship_operator.rcov" NAME="the_spaceship_operator Coverage Results" MODIFIED="1551621642170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@if_elsif.rcov" NAME="if_elsif Coverage Results" MODIFIED="1551447173262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_break_keyword.rcov" NAME="the_break_keyword Coverage Results" MODIFIED="1551823496943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@parentheses_precedence.rcov" NAME="parentheses_precedence Coverage Results" MODIFIED="1551481883533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_shift_and_unshift_methods.rcov" NAME="the_shift_and_unshift_methods Coverage Results" MODIFIED="1551620947753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_next_keyword.rcov" NAME="the_next_keyword Coverage Results" MODIFIED="1551825259255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_index_and_find_index_methods_on_an_array.rcov" NAME="the_index_and_find_index_methods_on_an_array Coverage Results" MODIFIED="1551827476798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@bang_methods_on_strings.rcov" NAME="bang_methods_on_strings Coverage Results" MODIFIED="1550962104205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@review_of_blocks.rcov" NAME="review_of_blocks Coverage Results" MODIFIED="1551795527211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_pop_method.rcov" NAME="the_pop_method Coverage Results" MODIFIED="1551620711085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@access_sequential_array_elements_with_a_range_object.rcov" NAME="access_sequential_array_elements_with_a_range_object Coverage Results" MODIFIED="1551616131953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@truthiness_and_falsiness.rcov" NAME="truthiness_and_falsiness Coverage Results" MODIFIED="1551446763512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@if_else.rcov" NAME="if_else Coverage Results" MODIFIED="1551476220502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@negation_with__.rcov" NAME="negation_with_! Coverage Results" MODIFIED="1551534463073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@access_sequential_array_elements_with_bracket_syntax.rcov" NAME="access_sequential_array_elements_with_bracket_syntax Coverage Results" MODIFIED="1551566724707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@extract_multiple_characters_with_range_object.rcov" NAME="extract_multiple_characters_with_range_object Coverage Results" MODIFIED="1550960515636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@fizzbuzz.rcov" NAME="fizzbuzz Coverage Results" MODIFIED="1551537629266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@longest_word.rcov" NAME="longest_word Coverage Results" MODIFIED="1551875117122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_unless_keyword.rcov" NAME="the_unless_keyword Coverage Results" MODIFIED="1551534942307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@nested_if_statements.rcov" NAME="nested_if_statements Coverage Results" MODIFIED="1551482369163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@overwrite_one_or_more_array_elements.rcov" NAME="overwrite_one_or_more_array_elements Coverage Results" MODIFIED="1551617541756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_select_method.rcov" NAME="the_select_method Coverage Results" MODIFIED="1551827837516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_split_method_on_a_string.rcov" NAME="the_split_method_on_a_string Coverage Results" MODIFIED="1551874654863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_while_keyword_03.rcov" NAME="the_while_keyword_03 Coverage Results" MODIFIED="1551536214253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@extract_multiple_characters_from_string.rcov" NAME="extract_multiple_characters_from_string Coverage Results" MODIFIED="1550959986911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@default_or_optional_parameters.rcov" NAME="default_or_optional_parameters Coverage Results" MODIFIED="1551532429520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_empty_and_nil_methods_on_an_array.rcov" NAME="the_empty_and_nil_methods_on_an_array Coverage Results" MODIFIED="1551619227789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@convert_range_to_array.rcov" NAME="convert_range_to_array Coverage Results" MODIFIED="1551622074831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_each_method.rcov" NAME="the_each_method Coverage Results" MODIFIED="1551796147983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@equality_and_inequality_operators.rcov" NAME="equality_and_inequality_operators Coverage Results" MODIFIED="1550353757406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@comments.rcov" NAME="comments Coverage Results" MODIFIED="1549195677358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_object_methods.rcov" NAME="intro_to_object_methods Coverage Results" MODIFIED="1549804392985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@generate_a_random_number_with_the_rand_method.rcov" NAME="generate_a_random_number_with_the_rand_method Coverage Results" MODIFIED="1551559215640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo07-ranges" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_reverse_method_on_an_array.rcov" NAME="the_reverse_method_on_an_array Coverage Results" MODIFIED="1551825796052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@parallel_variable_assignment.rcov" NAME="parallel_variable_assignment Coverage Results" MODIFIED="1549803500132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_first_and_last_methods.rcov" NAME="the_first_and_last_methods Coverage Results" MODIFIED="1551619879072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_max_and_min_methods_on_an_array.rcov" NAME="the_max_and_min_methods_on_an_array Coverage Results" MODIFIED="1551826991600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_include_method.rcov" NAME="the_include_method Coverage Results" MODIFIED="1550962541126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@access_single_element_by_index_position.rcov" NAME="access_single_element_by_index_position Coverage Results" MODIFIED="1551566068969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@float_methods.rcov" NAME="float_methods Coverage Results" MODIFIED="1550316194900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_index_and_rindex_methods.rcov" NAME="the_index_and_rindex_methods Coverage Results" MODIFIED="1551877244906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@evens_and_odds.rcov" NAME="evens_and_odds Coverage Results" MODIFIED="1551829437059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@convert_numbers_to_strings_and_vice_versa.rcov" NAME="convert_numbers_to_strings_and_vice_versa Coverage Results" MODIFIED="1549827997158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@create_a_strings.rcov" NAME="create_a_strings Coverage Results" MODIFIED="1550352386805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@access_multiple_array_elements_with_the_values_at.rcov" NAME="access_multiple_array_elements_with_the_values_at Coverage Results" MODIFIED="1551616507900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_push_method_the_shovel_operator_and_the_insert_method.rcov" NAME="the_push_method_the_shovel_operator_and_the_insert_method Coverage Results" MODIFIED="1551620400009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_sort_method_on_an_array.rcov" NAME="the_sort_method_on_an_array Coverage Results" MODIFIED="1551826120319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@escape_characters.rcov" NAME="escape_characters Coverage Results" MODIFIED="1550352930418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_fetch_method.rcov" NAME="the_fetch_method Coverage Results" MODIFIED="1551566261723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@upto_and_downto_methods.rcov" NAME="upto_and_downto_methods Coverage Results" MODIFIED="1550318923106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@methods_parameters_and_arguments.rcov" NAME="methods_parameters_and_arguments Coverage Results" MODIFIED="1551380309353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@basic_artithmetic.rcov" NAME="basic_artithmetic Coverage Results" MODIFIED="1549195216446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@check_if_a_value_is_in_a_range.rcov" NAME="check_if_a_value_is_in_a_range Coverage Results" MODIFIED="1551558749446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo07-ranges" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_gets_method.rcov" NAME="the_gets_method Coverage Results" MODIFIED="1549806636987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@variables.rcov" NAME="variables Coverage Results" MODIFIED="1549803068944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_booleans.rcov" NAME="intro_to_booleans Coverage Results" MODIFIED="1549828324885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_slice_method.rcov" NAME="the_slice_method Coverage Results" MODIFIED="1551616942590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@shorthand_sintax_to_create_an_array_of_strings.rcov" NAME="shorthand_sintax_to_create_an_array_of_strings Coverage Results" MODIFIED="1551564844435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@equality_and_inequality_operators_with_arrays.rcov" NAME="equality_and_inequality_operators_with_arrays Coverage Results" MODIFIED="1551621417253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@statement_modifiers.rcov" NAME="statement_modifiers Coverage Results" MODIFIED="1551538081592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@arithmetic_methods.rcov" NAME="arithmetic_methods Coverage Results" MODIFIED="1549925916291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_until_keyword.rcov" NAME="the_until_keyword Coverage Results" MODIFIED="1551536567616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_ranges.rcov" NAME="intro_to_ranges Coverage Results" MODIFIED="1551556264845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo07-ranges" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@constants.rcov" NAME="constants Coverage Results" MODIFIED="1549803883759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@case_statement.rcov" NAME="case_statement Coverage Results" MODIFIED="1551534067527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_include_method_on_an_array.rcov" NAME="the_include_method_on_an_array Coverage Results" MODIFIED="1551827300119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@intro_to_numbers.rcov" NAME="intro_to_numbers Coverage Results" MODIFIED="1549827385922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_odd_and_even_methods.rcov" NAME="the_odd_and_even_methods Coverage Results" MODIFIED="1549828702774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_each_with_index_method.rcov" NAME="the_each_with_index_method Coverage Results" MODIFIED="1551819365685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@more_pratice_with_each_method.rcov" NAME="more_pratice_with_each_method Coverage Results" MODIFIED="1551797049691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_map_or_collect_method.rcov" NAME="the_map_or_collect_method Coverage Results" MODIFIED="1551822679443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_size_method_on_a_range.rcov" NAME="the_size_method_on_a_range Coverage Results" MODIFIED="1551556882397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo07-ranges" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@alphabetical_ranges.rcov" NAME="alphabetical_ranges Coverage Results" MODIFIED="1551556739510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo07-ranges" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_partition_method.rcov" NAME="the_partition_method Coverage Results" MODIFIED="1551829130472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@local_variables.rcov" NAME="local_variables Coverage Results" MODIFIED="1551379671173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@concatenate_strings.rcov" NAME="concatenate_strings Coverage Results" MODIFIED="1550354164627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_reverse_methods_on_a_string.rcov" NAME="the_reverse_methods_on_a_string Coverage Results" MODIFIED="1550961648746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_ternary_operator.rcov" NAME="the_ternary_operator Coverage Results" MODIFIED="1551532108702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@assignments_and_reassignments.rcov" NAME="assignments_and_reassignments Coverage Results" MODIFIED="1550317112056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@iterate_over_string_characters.rcov" NAME="iterate_over_string_characters Coverage Results" MODIFIED="1551875435452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo10-strings-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@comparison_with_the_inequality_operator.rcov" NAME="comparison_with_the_inequality_operator Coverage Results" MODIFIED="1549925015319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo03-numbers-booleans" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@case_methods.rcov" NAME="case_methods Coverage Results" MODIFIED="1550961387235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_if_statement.rcov" NAME="the_if_statement Coverage Results" MODIFIED="1551446379904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo05-methods-conditions-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@introduction_to_arrays.rcov" NAME="introduction_to_arrays Coverage Results" MODIFIED="1551564454525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@conditional_assigment.rcov" NAME="conditional_assigment Coverage Results" MODIFIED="1551555272889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo06-methods-conditions-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@multiline_strings.rcov" NAME="multiline_strings Coverage Results" MODIFIED="1550352588730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@the_puts_method.rcov" NAME="the_puts_method Coverage Results" MODIFIED="1549141313547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@create_an_array_with_array_new_method.rcov" NAME="create_an_array_with_array_new_method Coverage Results" MODIFIED="1551565098044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo08-arrays-01" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@challenge_the_each_with_index_method.rcov" NAME="challenge_the_each_with_index_method Coverage Results" MODIFIED="1551820405978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo09-arrays-02" MODULE_NAME="learn-ruby" />
+    <SUITE FILE_PATH="coverage/learn_ruby@extract_single_characters_from_string_with_brackets.rcov" NAME="extract_single_characters_from_string_with_brackets Coverage Results" MODIFIED="1550355246871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo04-strings" MODULE_NAME="learn-ruby" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/intro_to_hashes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Hello world</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modulo08-arrays-01/the_spaceship_operator.rb" />
+        <option value="$PROJECT_DIR$/modulo08-arrays-01/convert_range_to_array.rb" />
+        <option value="$PROJECT_DIR$/modulo08-arrays-01/the_is_a_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/review_of_blocks.rb" />
+        <option value="$PROJECT_DIR$/.gemrc" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_each_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/more_pratice_with_each_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/each_within_each.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_for_loop.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_each_with_index_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/challenge_the_each_with_index_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/iteration_over_array_with_while_or_until_loops.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_break_keyword.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_next_keyword.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_reverse_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_sort_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_concat_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_select_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_reject_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/unpack_a_multidimensional_array.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_partition_method.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/evens_and_odds.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_split_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/longest_word.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/iterate_over_string_characters.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_join_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_count_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_index_and_rindex_methods.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_insert_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_squeeze_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_clear_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo10-strings-02/the_delete_method_on_a_string.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/object_pointers_and_object_copies.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/splat_arguments.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_any_and_all_methods" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_find_and_detect_method.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_uniq_methods_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_compact_method.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_inject_and_reduce_methods_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_flatten_on_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_zip_method_on_an_array.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_sample_method.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/multiply_an_array_with_an_asterisk.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/array_union_combine_array_and_exclude_duplicates.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/remove_array_items_that_exist_in_another_array.rb" />
+        <option value="$PROJECT_DIR$/modulo11-arrays-03/array_intersection_with_the_ampersand_symbol.rb" />
+        <option value="$PROJECT_DIR$/modulo12-hashes-01/intro_to_hashes.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="142" />
+    <option name="y" value="313" />
+    <option name="width" value="1136" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn-ruby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-ruby" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo03-numbers-booleans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo06-methods-conditions-02" />
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="intro_to_hashes" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo12-hashes-01" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo12-hashes-01/intro_to_hashes.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.intro_to_hashes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\Maycon\Documents\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="620459a3-0d43-484e-a12d-d2a2dbf4d87b" name="Default Changelist" comment="" />
+      <created>1549116865393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549116865393</updated>
+      <workItem from="1549116868039" duration="2459000" />
+      <workItem from="1549140997678" duration="595000" />
+      <workItem from="1549194038442" duration="2313000" />
+      <workItem from="1549802094673" duration="4960000" />
+      <workItem from="1549826772207" duration="1958000" />
+      <workItem from="1549924225919" duration="2366000" />
+      <workItem from="1550315767717" duration="4177000" />
+      <workItem from="1550319962714" duration="140000" />
+      <workItem from="1550351732553" duration="4109000" />
+      <workItem from="1550959739169" duration="3486000" />
+      <workItem from="1551379049465" duration="2817000" />
+      <workItem from="1551445684660" duration="2655000" />
+      <workItem from="1551480113302" duration="2784000" />
+      <workItem from="1551531184197" duration="7052000" />
+      <workItem from="1551554565452" duration="7559000" />
+      <workItem from="1551615475750" duration="8629000" />
+      <workItem from="1551706709152" duration="15000" />
+      <workItem from="1551793489519" duration="5621000" />
+      <workItem from="1551818463971" duration="10543000" />
+      <workItem from="1551873357080" duration="3846000" />
+      <workItem from="1552165983701" duration="512000" />
+      <workItem from="1552166657185" duration="3968000" />
+      <workItem from="1552172811963" duration="2972000" />
+      <workItem from="1552230279314" duration="394000" />
+      <workItem from="1552738944211" duration="4058000" />
+      <workItem from="1552743016491" duration="181000" />
+      <workItem from="1552755572130" duration="893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91062000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32502708" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23933902" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32502708" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33152762" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/modulo11-arrays-03/object_pointers_and_object_copies.rb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modulo08-arrays-01/the_is_a_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo08-arrays-01/the_shift_and_unshift_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/review_of_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gemrc" />
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_each_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_for_loop.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/each_within_each.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/more_pratice_with_each_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/challenge_the_each_with_index_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_each_with_index_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/iteration_over_array_with_while_or_until_loops.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_break_keyword.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_next_keyword.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_reverse_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_sort_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="545" column="8" selection-start-line="545" selection-start-column="8" selection-end-line="545" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_concat_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_select_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_reject_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/unpack_a_multidimensional_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_partition_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/evens_and_odds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/longest_word.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_split_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_count_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/iterate_over_string_characters.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_index_and_rindex_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_join_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_insert_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/object_pointers_and_object_copies.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_delete_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_clear_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_squeeze_method_on_a_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/splat_arguments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_find_and_detect_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_any_and_all_methods">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_inject_and_reduce_methods_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_flatten_on_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_zip_method_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_sample_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="79" lean-forward="true" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/multiply_an_array_with_an_asterisk.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/remove_array_items_that_exist_in_another_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/array_intersection_with_the_ampersand_symbol.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_compact_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_uniq_methods_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/array_union_combine_array_and_exclude_duplicates.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/intro_to_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

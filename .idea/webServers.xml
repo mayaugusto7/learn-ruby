@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3fbe09a8-dda4-4ec2-95ad-8697fee8c225" name="servidor" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="C:\Users\Maycon\.vagrant.d\vagrant.ppk" rootFolder="/vagrant/learn-ruby" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
