@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="620459a3-0d43-484e-a12d-d2a2dbf4d87b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/convert_hash_to_array_and_vice_versa.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/hashes_as_method_arguments.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/the_delete_method.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/the_key_and_value_methods.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/the_select_and_reject_methods_on_a_hash.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo13-hashes-02/the_sort_and_sort_by_methods_on_a_hash.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/add_or_subtract_time_seconds.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_formatted_string.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_other_objects.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/extend_time_object_with_require_time.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/instance_methods_on_a_time_object.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/predicate_methods_on_time_objects.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo15-time-object/the_comparable_methods_on_a_time_object.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo12-hashes-01/the_each_key_and_each_value_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo12-hashes-01/the_each_key_and_each_value_methods.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo12-hashes-01/the_each_method_on_a_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo12-hashes-01/the_each_method_on_a_hash.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo12-hashes-01/the_fetch_method_on_a_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo12-hashes-01/the_fetch_method_on_a_hash.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo13-hashes-02/create_hash_with_default_value.rb" beforeDir="false" afterPath="$PROJECT_DIR$/modulo13-hashes-02/create_hash_with_default_value.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,19 +142,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb">
+        <entry file="file://$PROJECT_DIR$/modulo15-time-object/extend_time_object_with_require_time.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/convert_hash_to_array_and_vice_versa.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="29" />
+            <state relative-caret-position="72">
+              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -188,26 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_split_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/longest_word.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/iterate_over_string_characters.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_join_method_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_count_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_index_and_rindex_methods.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_insert_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_squeeze_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_clear_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo10-strings-02/the_delete_method_on_a_string.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/object_pointers_and_object_copies.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/splat_arguments.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_any_and_all_methods" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_find_and_detect_method.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_uniq_methods_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_compact_method.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_inject_and_reduce_methods_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_flatten_on_method_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_zip_method_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo11-arrays-03/the_sample_method.rb" />
         <option value="$PROJECT_DIR$/modulo11-arrays-03/multiply_an_array_with_an_asterisk.rb" />
         <option value="$PROJECT_DIR$/modulo11-arrays-03/array_union_combine_array_and_exclude_duplicates.rb" />
         <option value="$PROJECT_DIR$/modulo11-arrays-03/remove_array_items_that_exist_in_another_array.rb" />
@@ -222,7 +184,6 @@
         <option value="$PROJECT_DIR$/modulo12-hashes-01/value_count.rb" />
         <option value="$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb" />
         <option value="$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" />
         <option value="$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb" />
         <option value="$PROJECT_DIR$/modulo12-hashes-01/the_fetch_method_on_a_hash.rb" />
         <option value="$PROJECT_DIR$/modulo12-hashes-01/the_each_method_on_a_hash.rb" />
@@ -239,6 +200,27 @@
         <option value="$PROJECT_DIR$/modulo13-hashes-02/the_select_and_reject_methods_on_a_hash.rb" />
         <option value="$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb" />
         <option value="$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb" />
+        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intrdoduction_to_blocks.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_yield_keyword.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_01.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_block_given_method.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/Yielding_with_arguments.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/a_custom_each_method.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_02.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/yielding_with_arguments.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/pass_a_ruby_method_as_proc.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/methods_with_proc_parameters.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intro_to_lambdas.rb" />
+        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lambda_efficiency_example.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/instance_methods_on_a_time_object.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/predicate_methods_on_time_objects.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/add_or_subtract_time_seconds.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/the_comparable_methods_on_a_time_object.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_other_objects.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_formatted_string.rb" />
+        <option value="$PROJECT_DIR$/modulo15-time-object/extend_time_object_with_require_time.rb" />
       </list>
     </option>
   </component>
@@ -254,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,13 +247,12 @@
             <path>
               <item name="learn-ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="modulo13-hashes-02" type="462c0819:PsiDirectoryNode" />
+              <item name="modulo15-time-object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,23 +286,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="challenge_word_frequency" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.extend_time_object_with_require_time">
+    <configuration name="add_or_subtract_time_seconds" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo13-hashes-02" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo15-time-object" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo13-hashes-02/challenge_word_frequency.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo15-time-object/add_or_subtract_time_seconds.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convert_time_object_to_formatted_string" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo15-time-object" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo15-time-object/convert_time_object_to_formatted_string.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convert_time_object_to_other_objects" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo15-time-object" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo15-time-object/convert_time_object_to_other_objects.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extend_time_object_with_require_time" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo15-time-object" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo15-time-object/extend_time_object_with_require_time.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="the_comparable_methods_on_a_time_object" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo15-time-object" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo15-time-object/the_comparable_methods_on_a_time_object.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.challenge_word_frequency" />
+        <item itemvalue="Ruby.extend_time_object_with_require_time" />
+        <item itemvalue="Ruby.convert_time_object_to_formatted_string" />
+        <item itemvalue="Ruby.convert_time_object_to_other_objects" />
+        <item itemvalue="Ruby.the_comparable_methods_on_a_time_object" />
+        <item itemvalue="Ruby.add_or_subtract_time_seconds" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +401,11 @@
       <workItem from="1552738944211" duration="4058000" />
       <workItem from="1552743016491" duration="181000" />
       <workItem from="1552755572130" duration="3802000" />
-      <workItem from="1552764369487" duration="11207000" />
+      <workItem from="1552764369487" duration="11449000" />
+      <workItem from="1552821347867" duration="8970000" />
+      <workItem from="1552830330664" duration="117000" />
+      <workItem from="1552841882465" duration="2581000" />
+      <workItem from="1553342133169" duration="3648000" />
     </task>
     <task id="LOCAL-00001" summary="Hashes 01">
       <created>1552768270015</created>
@@ -372,11 +414,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552768270015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hashes 02">
+      <created>1552778094553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552778094553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Blocks Procs e Lambdas">
+      <created>1552867696554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552867696554</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105178000" />
+    <option name="totallyTimeSpent" value="120736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,7 +447,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -441,7 +497,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hashes 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashes 01" />
+    <MESSAGE value="Hashes 02" />
+    <MESSAGE value="Blocks Procs e Lambdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blocks Procs e Lambdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,160 +513,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/iterate_over_string_characters.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_index_and_rindex_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_join_method_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_insert_method_on_a_string.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/object_pointers_and_object_copies.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_delete_method_on_a_string.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_clear_method_on_a_string.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo10-strings-02/the_squeeze_method_on_a_string.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/splat_arguments.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_find_and_detect_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_any_and_all_methods">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_inject_and_reduce_methods_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_flatten_on_method_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_zip_method_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_sample_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="79" lean-forward="true" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/multiply_an_array_with_an_asterisk.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/remove_array_items_that_exist_in_another_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/array_intersection_with_the_ampersand_symbol.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_compact_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/the_uniq_methods_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo11-arrays-03/array_union_combine_array_and_exclude_duplicates.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/intro_to_hashes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/symbols_as_hash_keys.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -675,27 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/rubocop.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/rubocop.yml" />
     <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -717,13 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_sort_and_sort_by_methods_on_a_hash.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -783,10 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb">
+    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_sort_and_sort_by_methods_on_a_hash.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -797,10 +674,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb">
+    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_yield_keyword.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intrdoduction_to_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="952" column="8" selection-start-line="952" selection-start-column="8" selection-end-line="952" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_block_given_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_01.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/a_custom_each_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="79" lean-forward="true" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_02.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/yielding_with_arguments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/pass_a_ruby_method_as_proc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/methods_with_proc_parameters.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intro_to_lambdas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lamba_efficiency_example.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lambda_efficiency_example.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/time.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="729" column="8" selection-start-line="729" selection-start-column="8" selection-end-line="729" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/predicate_methods_on_time_objects.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/instance_methods_on_a_time_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/add_or_subtract_time_seconds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/the_comparable_methods_on_a_time_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_other_objects.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_formatted_string.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo15-time-object/extend_time_object_with_require_time.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
