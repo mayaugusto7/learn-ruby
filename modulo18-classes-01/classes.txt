@@ -1,0 +1,1 @@
+self diz que o metodo pertece a classe

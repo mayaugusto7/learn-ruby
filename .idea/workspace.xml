@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="620459a3-0d43-484e-a12d-d2a2dbf4d87b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/a/b/epilogue.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/command_line_arguments.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/end.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/novel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/read_file.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/rename_and_delete_a_file.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/start.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo16-file-input-output/write_file.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo18-classes-01/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/circle.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/geometry.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/length_conversions.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/mixins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/modules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/olympic_medal.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/rectangle.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/square.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/the_math_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,28 +145,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/start.rb">
+        <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/a/b/epilogue.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="44" selection-start-column="44" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/end.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            <state relative-caret-position="414">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -186,37 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/add_a_key_value_pair_to_hash_with_bracket_syntax_or_the_store_method.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/retrieve_keys_or_values_from_hash_as_array.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_partition_method.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/value_count.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_index_and_find_index_methods_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/the_fetch_method_on_a_hash.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/the_each_method_on_a_hash.rb" />
-        <option value="$PROJECT_DIR$/modulo12-hashes-01/the_each_key_and_each_value_methods.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/create_hash_with_default_value.rb" />
-        <option value="$PROJECT_DIR$/rubocop.yml" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/convert_hash_to_array_and_vice_versa.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/the_sort_and_sort_by_methods_on_a_hash.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/the_key_and_value_methods.rb" />
-        <option value="$PROJECT_DIR$/.rubocop.yml" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/hashes_as_method_arguments.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/the_delete_method.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/the_select_and_reject_methods_on_a_hash.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb" />
-        <option value="$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb" />
-        <option value="$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intrdoduction_to_blocks.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_yield_keyword.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_01.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_block_given_method.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/Yielding_with_arguments.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/a_custom_each_method.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_02.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/yielding_with_arguments.rb" />
         <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/pass_a_ruby_method_as_proc.rb" />
         <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/methods_with_proc_parameters.rb" />
         <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intro_to_lambdas.rb" />
@@ -237,12 +193,43 @@
         <option value="$PROJECT_DIR$/modulo16-file-input-output/end.rb" />
         <option value="$PROJECT_DIR$/modulo16-file-input-output/a/b/epilogue.rb" />
         <option value="$PROJECT_DIR$/modulo16-file-input-output/start.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_start_with_and_end_with_methods.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_include_method.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/intro_to_regular_expressions.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_scan_method_part_01.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_scan_method_part_02.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_widcard_symbol.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_backslash_character.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/regex_anchors.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/exclude_characters.rb" />
+        <option value="$PROJECT_DIR$/modulo17-regular-expressions/the_sub_and_gsub_methods.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/review_of_the_class_method_on_ruby_objects.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/the_superclass_and_ancestor_methods_on_a_class.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/the_methods_method.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes/gadget_old.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes/gadget_instance_variables.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes/gadget_to_s.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes/gadget_get_set.rb" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes/gadget.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules/modules.txt" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/modules.txt" />
+        <option value="$PROJECT_DIR$/modulo18-classes-01/classes.txt" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/length_conversions.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/square.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/rectangle.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/circle.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/geometry.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/the_math_module.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/olympic_medal.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/mixins.txt" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="142" />
-    <option name="y" value="313" />
+    <option name="x" value="-31" />
+    <option name="y" value="102" />
     <option name="width" value="1136" />
     <option name="height" value="1047" />
   </component>
@@ -263,7 +250,7 @@
             <path>
               <item name="learn-ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="modulo16-file-input-output" type="462c0819:PsiDirectoryNode" />
+              <item name="modulo19-modules-mixings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,6 +268,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo18-classes-01\classes" />
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo17-regular-expressions" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo13-hashes-02" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo06-methods-conditions-02" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
@@ -302,79 +291,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.start">
-    <configuration name="command_line_arguments" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.mixins_part_II">
+    <configuration name="geometry" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo16-file-input-output" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo16-file-input-output/command_line_arguments.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/geometry.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="mixins_part_II" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo16-file-input-output" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo16-file-input-output/read_file.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/mixins_part_II.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="rename_and_delete_a_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="olympic_medal" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo16-file-input-output" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo16-file-input-output/rename_and_delete_a_file.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/olympic_medal.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="start" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="square_rectangle_circle" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo16-file-input-output" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo16-file-input-output/start.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="write_file" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="the_math_module" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo16-file-input-output" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo16-file-input-output/write_file.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/the_math_module.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.start" />
-        <item itemvalue="Ruby.command_line_arguments" />
-        <item itemvalue="Ruby.rename_and_delete_a_file" />
-        <item itemvalue="Ruby.write_file" />
-        <item itemvalue="Ruby.read_file" />
+        <item itemvalue="Ruby.mixins_part_II" />
+        <item itemvalue="Ruby.olympic_medal" />
+        <item itemvalue="Ruby.the_math_module" />
+        <item itemvalue="Ruby.geometry" />
+        <item itemvalue="Ruby.square_rectangle_circle" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +410,9 @@
       <workItem from="1552821347867" duration="8970000" />
       <workItem from="1552830330664" duration="117000" />
       <workItem from="1552841882465" duration="2581000" />
-      <workItem from="1553342133169" duration="6518000" />
+      <workItem from="1553342133169" duration="19304000" />
+      <workItem from="1553428289118" duration="5496000" />
+      <workItem from="1553954188707" duration="6765000" />
     </task>
     <task id="LOCAL-00001" summary="Hashes 01">
       <created>1552768270015</created>
@@ -451,11 +442,39 @@
       <option name="project" value="LOCAL" />
       <updated>1553346002826</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="API File ruby">
+      <created>1553349526395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553349526395</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Regexp Ruby">
+      <created>1553357006716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553357006716</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Regexp Ruby">
+      <created>1553373821196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553373821196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ruby Class and Object">
+      <created>1553435432973</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553435432973</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123606000" />
+    <option name="totallyTimeSpent" value="148653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,12 +489,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32502708" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49626866" visible="true" weight="0.32502708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,34 +502,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32502708" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50373137" side_tool="true" weight="0.32502708" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.33152762" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23933902" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32502708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33152762" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -523,7 +521,10 @@
     <MESSAGE value="Hashes 02" />
     <MESSAGE value="Blocks Procs e Lambdas" />
     <MESSAGE value="API Time Ruby" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Time Ruby" />
+    <MESSAGE value="API File ruby" />
+    <MESSAGE value="Regexp Ruby" />
+    <MESSAGE value="Ruby Class and Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ruby Class and Object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -535,235 +536,14 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RubyRunConfigurationType">
+        <watch expression=" MEDAL_VALUES[type]" />
+        <watch expression="MEDAL_VALUES[other.type]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/rubocop.yml" />
-    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/the_length_and_empty.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/the_fetch_method_on_a_hash.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/the_each_method_on_a_hash.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo12-hashes-01/the_each_key_and_each_value_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/create_hash_with_default_value.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_include_method_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_key_and_value_methods.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.rubocop.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ruby-version">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/hashes_as_method_arguments.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_delete_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_select_and_reject_methods_on_a_hash.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_sort_and_sort_by_methods_on_a_hash.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/convert_hash_to_array_and_vice_versa.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/the_merge_method_to_combine_hashes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_map_or_collect_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo09-arrays-02/the_max_and_min_methods_on_an_array.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_yield_keyword.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intrdoduction_to_blocks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo13-hashes-02/challenge_word_frequency.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="952" column="8" selection-start-line="952" selection-start-column="8" selection-end-line="952" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/the_block_given_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_01.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/a_custom_each_method.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="79" lean-forward="true" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/procs_02.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/yielding_with_arguments.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/pass_a_ruby_method_as_proc.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/methods_with_proc_parameters.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intro_to_lambdas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lamba_efficiency_example.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lambda_efficiency_example.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/time.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="729" column="8" selection-start-line="729" selection-start-column="8" selection-end-line="729" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/predicate_methods_on_time_objects.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/instance_methods_on_a_time_object.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -820,13 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/myFirstFile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/myFirstFile.txt" />
     <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/oldFirstFile.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -868,7 +642,252 @@
     <entry file="file://$PROJECT_DIR$/modulo16-file-input-output/start.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_start_with_and_end_with_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_include_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_scan_method_part_01.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/intro_to_regular_expressions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_scan_method_part_02.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_widcard_symbol.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_backslash_character.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/regex_anchors.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/exclude_characters.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo17-regular-expressions/the_sub_and_gsub_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/review_of_the_class_method_on_ruby_objects.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/the_methods_method.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/the_superclass_and_ancestor_methods_on_a_class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes/gadget_old.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes/gadget_instance_variables.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="533" column="8" selection-start-line="533" selection-start-column="8" selection-end-line="533" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes/gadget_to_s.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes/gadget.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes/gadget_get_set.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo18-classes-01/classes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/modules.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/square.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/length_conversions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/circle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/rectangle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/geometry.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/math.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="275" column="13" selection-start-line="275" selection-start-column="13" selection-end-line="275" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_math_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/comparable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.RubyMine2018.3/system/ruby_stubs/2066413648/1788567091/gems/ruby-debug-ide-0.7.0.beta7/lib/ruby-debug-ide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/olympic_medal.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>

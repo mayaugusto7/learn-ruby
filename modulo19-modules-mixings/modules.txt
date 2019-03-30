@@ -1,0 +1,14 @@
+Definição
+1. Um modulo é uma caixa de ferramentas ou container de metodos e constantes
+2. Modulo metodos e constantes podem ser usadas se necessario
+3. Modulos criam namespaces para metodos com o mesmo nome
+4. Modulos nao podem ser usados para criar instancias de objetos
+5. Modulos podem ser misturados dentro das classes adicionando um comportamento
+
+Sintaxe e Estilo
+1. Modulos seu nome é escrito no formato UpperCamelCase
+2. Constantes nos modulos sao escritas sempre com letras maiusculas ALL CAPS
+3. Acesso aos metodos do modulo com (.)
+4. Acesso as constantes do modulo com :: symbol
+5. O :: symbol é chamado operador de resolução do escopo
+

@@ -1,0 +1,25 @@
+Why mix in modules to classes?
+Porque misturar modulos com classes
+
+1. Diferentes classes precisam de funcionalidades similares
+2. Por exemplo Sting e Numeric precisam de <, <=, > >= e ==
+3. No entanto, nenhuma classe pode ser representada como uma subclasse de outras
+4. Duplicacao de metodos viola o principio DRY
+
+O que é um mixin
+1. Um mixin é um modulo que injeta comportamentos adicionais dentro de uma classe
+2. Mixins permitem que nos herdemos mais de uma classe
+3. Uma classe que inclui um modulo tem acesso a todos metodos e constantes
+4. Constantes e metodos misturados dento da classe não é necessario usar o nome do modulo como prefixo
+
+Modulos(Mixins) vs Herança
+1. Herança de classes devem ser usadas em relacionamentos é um(is-a).
+2. Por exemplo um Array é um tipo de Object. Um Fixnum é um Integer.
+3. Modulos devem ser usados como relacionamento tem um(has-a, associacao). E adiciona a funcionalidade
+4. Por exemplo uma String tem um Comparable
+
+Localização de pesquisa do metodo
+1. A ordem que os modulos sao incluidos nas classes por importancia
+2. Ruby olha o ultimo modulo incluido na classe primeiro
+3. Se multiplos modulos mix em metodos com mesmo nome o ultimo modulo incluido na classe define sera usado primeiro
+4. Ruby ira lançar um erro se o método não for encontrando na classe, modulos ou quaisquer super classes
