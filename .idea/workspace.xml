@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="620459a3-0d43-484e-a12d-d2a2dbf4d87b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo18-classes-01/classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/circle.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/geometry.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/length_conversions.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/mixins.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/modules.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/olympic_medal.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/rectangle.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/square.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/the_math_module.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_III_enumerable.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/the_ancestors_methods.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/the_extend_keyword.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo19-modules-mixings/the_prepend_keyword.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Maycon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -144,11 +136,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_prepend_keyword.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="12" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_extend_keyword.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_III_enumerable.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -173,10 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/pass_a_ruby_method_as_proc.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/methods_with_proc_parameters.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/intro_to_lambdas.rb" />
-        <option value="$PROJECT_DIR$/modulo14-blocks-procs-lambdas/lambda_efficiency_example.rb" />
         <option value="$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb" />
         <option value="$PROJECT_DIR$/modulo15-time-object/instance_methods_on_a_time_object.rb" />
         <option value="$PROJECT_DIR$/modulo15-time-object/predicate_methods_on_time_objects.rb" />
@@ -224,6 +230,10 @@
         <option value="$PROJECT_DIR$/modulo19-modules-mixings/olympic_medal.rb" />
         <option value="$PROJECT_DIR$/modulo19-modules-mixings/mixins.txt" />
         <option value="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/the_ancestors_methods.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/the_prepend_keyword.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/the_extend_keyword.rb" />
+        <option value="$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_III_enumerable.rb" />
       </list>
     </option>
   </component>
@@ -267,16 +277,16 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo03-numbers-booleans" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo19-modules-mixings" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo18-classes-01\classes" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo17-regular-expressions" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo13-hashes-02" />
       <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo06-methods-conditions-02" />
-      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo05-methods-conditions-01" />
-      <recent name="C:\Users\Maycon\Desktop\DEV-PROJECTS\ruby-projects\learn-ruby\modulo03-numbers-booleans" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,20 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.mixins_part_II">
-    <configuration name="geometry" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="learn-ruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/geometry.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.mixins_part_III_enumerable">
     <configuration name="mixins_part_II" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -318,7 +315,7 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="olympic_medal" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="mixins_part_III_enumerable" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
@@ -327,11 +324,11 @@
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/olympic_medal.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/mixins_part_III_enumerable.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="square_rectangle_circle" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="the_ancestors_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
@@ -340,11 +337,11 @@
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/square_rectangle_circle.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/the_ancestors_methods.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="the_math_module" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="the_extend_keyword" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="learn-ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
@@ -353,17 +350,30 @@
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/the_math_module.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/the_extend_keyword.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="the_prepend_keyword" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="learn-ruby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/modulo19-modules-mixings" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/modulo19-modules-mixings/the_prepend_keyword.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.mixins_part_III_enumerable" />
+        <item itemvalue="Ruby.the_extend_keyword" />
+        <item itemvalue="Ruby.the_prepend_keyword" />
+        <item itemvalue="Ruby.the_ancestors_methods" />
         <item itemvalue="Ruby.mixins_part_II" />
-        <item itemvalue="Ruby.olympic_medal" />
-        <item itemvalue="Ruby.the_math_module" />
-        <item itemvalue="Ruby.geometry" />
-        <item itemvalue="Ruby.square_rectangle_circle" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +422,7 @@
       <workItem from="1552841882465" duration="2581000" />
       <workItem from="1553342133169" duration="19304000" />
       <workItem from="1553428289118" duration="5496000" />
-      <workItem from="1553954188707" duration="6765000" />
+      <workItem from="1553954188707" duration="10988000" />
     </task>
     <task id="LOCAL-00001" summary="Hashes 01">
       <created>1552768270015</created>
@@ -470,11 +480,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553435432973</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ruby Modulos e Mixins">
+      <created>1553965627408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553965627408</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148653000" />
+    <option name="totallyTimeSpent" value="152876000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,7 +541,8 @@
     <MESSAGE value="API File ruby" />
     <MESSAGE value="Regexp Ruby" />
     <MESSAGE value="Ruby Class and Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ruby Class and Object" />
+    <MESSAGE value="Ruby Modulos e Mixins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ruby Modulos e Mixins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -544,34 +562,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/intro_the_time_object.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/add_or_subtract_time_seconds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/the_comparable_methods_on_a_time_object.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_other_objects.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modulo15-time-object/convert_time_object_to_formatted_string.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -886,8 +876,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_II.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_ancestors_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_prepend_keyword.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/the_extend_keyword.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulo19-modules-mixings/mixins_part_III_enumerable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
