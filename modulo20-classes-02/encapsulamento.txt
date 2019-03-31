@@ -1,0 +1,15 @@
+Public Methods
+1. metodos public permitem interacao com objeto
+2. metodos public podem ser chamados por qualquer outro objeto
+
+Private Methods
+1. metodos private podem ser chamados somente dentro do objeto
+2. metodos private nao podem ser invocados por outros objetos
+3. metodos private não podem ser chamados explicitamente, somente no objeto corrente
+
+Protected Methods
+1. metodos protected podem ser invocados somente por objetos da mesma classe
+2. metodos protected nao podem ser chamados dentro da mesma familia de objetos
+3. metodos protected são usados para comparar objetos da mesma classe
+
+Usado para comparar objetos
