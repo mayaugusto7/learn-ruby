@@ -1,8 +1,6 @@
-require_relative 'app_store'
-
 class Gadget
 
-  attr_accessor :username, :password, :apps
+  attr_accessor :username, :password
   attr_reader :production_number
   # attr_writer :password
 
@@ -11,7 +9,6 @@ class Gadget
     @username = username
     @password = password
     @production_number = generate_production_number
-    @apps = []
   end
 
   def to_s
@@ -19,29 +16,11 @@ class Gadget
      class and it has the ID #{self.object_id}"
   end
 
-  def install_app(name)
-    app = AppStore.find_app(name)
-    @apps << app unless @apps.include?(app)
-  end
-
-  def delete_app(name)
-    app = apps.find { |installed_app| installed_app.name == name}
-    apps.delete(app) unless app.nil?
-  end
-
-  def reset(username, password)
-    self.username = username
-    self.password = password
-    self.apps = []
-  end
-
   def password=(new_password)
     @password = new_password if validate_password(new_password)
   end
 
   private
-
-  attr_writer :apps
 
   def generate_production_number
     start_digits = rand(10000..99999)
@@ -57,13 +36,13 @@ class Gadget
   end
 end
 
-g = Gadget.new('boris', 'password')
-p g.apps
-
-g.install_app(:Chat)
-g.install_app(:Twitter)
-g.install_app(:Chat)
-p g.apps
-
-g.delete_app(:Chat)
-p g.apps
+phone = Gadget.new('user', 'password')
+p phone.password
+phone.password = 123
+p phone.password
+phone.password = 'test'
+p phone.password
+phone.password = 'computer'
+p phone.password
+phone.password = 'computer123'
+p phone.password

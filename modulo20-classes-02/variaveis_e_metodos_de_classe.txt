@@ -1,0 +1,21 @@
+O que é uma variavel de classe
+
+1. Alguns dados se estendem além do escopo de um unico objeto
+2. Uma variavel de classe resolve a questão da duplicação de dados entre instâncias
+3. Uma variavel de classe pertence a toda classe e não a um objeto
+4. As variaveis de classe armazenam informações que não diz respeito a uma instancia
+
+O que é um método de classe
+
+1. Um metodo de classe é um metodo disponivel na classe em vez de uma instancia.
+2. Metodos de classe contem funcionalidades que nao envolvem uma instancia.
+3. Um metodo de classe pode ser chamado mesmo que objetos de instancia nao existam.
+4. O new metodo que chamamos uma classe para criar um objeto é um exemplo de um metodo
+de classe.
+
+Syntax
+
+Variaveis de classe começam com @@
+Variaveis de instancia começam com @
+Metodos de classe é prefixado com a palavra chave self
+Tenha cuidado! Em uma definição de método de instância, self refere-se ao objeto
