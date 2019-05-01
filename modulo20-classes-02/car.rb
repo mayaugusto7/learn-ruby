@@ -1,4 +1,4 @@
-class Car
+class Car2
 
   def initialize(age, miles)
     base_value = 2000
@@ -18,7 +18,7 @@ class Car
   end
 end
 
-civic = Car.new(3, 30000)
-fiat  = Car.new(1, 20000)
+civic = Car2.new(3, 30000)
+fiat  = Car2.new(1, 20000)
 p civic.compare_car_with(fiat)
 p fiat.compare_car_with(civic)
